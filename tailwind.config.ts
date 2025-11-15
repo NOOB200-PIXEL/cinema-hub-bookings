@@ -57,6 +57,13 @@ export default {
           border: "hsl(var(--sidebar-border))",
           ring: "hsl(var(--sidebar-ring))",
         },
+        cinema: {
+          red: "hsl(var(--cinema-red))",
+          gold: "hsl(var(--cinema-gold))",
+          dark: "hsl(var(--cinema-dark))",
+          darker: "hsl(var(--cinema-darker))",
+          card: "hsl(var(--cinema-card))",
+        },
       },
       borderRadius: {
         lg: "var(--radius)",
